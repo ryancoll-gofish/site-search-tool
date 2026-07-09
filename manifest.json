@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Site Search",
+  "version": "1.0",
+  "description": "Google site: searches from the current website.",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
